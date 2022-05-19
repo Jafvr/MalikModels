@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+body {
+    
+   
+
+}
+
+
+.malik{
+    display: flex;
+    padding-left: 40%;
+    font-family: 'Koulen', cursive;
+    font-size: 500%
+}
+
+
+.malik{
+    display: flex;
+    
+    justify-content: center;
+    border: 10px;
+    border-color: rgb(34, 203, 255);
+    box-sizing: border-box;
+    border-width: 5px;
+    border-style: dotted;
+    color: rgb(17, 17, 16);
+    margin: 40px;
+    width: 80vh;
+    padding-top: 0cm;
+    padding-left: 20cm;
+    font-family: 'Koulen', cursive;
+    font-size: 100px;
+
+
+}
+
+.modellingg{
+
+    display: flex;
+    
+    justify-content: center;
+    border: 10px;
+    border-color: rgb(34, 203, 255);
+    box-sizing: border-box;
+    border-width: 5px;
+    border-style: solid;
+    color: rgb(17, 17, 16);
+    margin: 40px;
+    width: 80vh;
+    padding-top: 0cm;
+    padding-left: 20cm;
+    font-family: 'Koulen', cursive;
+    font-size: 100px;
+}
+
+h1 {
+    display: flex;
+    padding-left: 40%;
+
+    color: rgb(19, 18, 4);
+    font-size: 5em;
+    text-align: center;
+    font-family: 'Koulen', cursive;
+
+}
+
+h2{
+    color: rgb(8, 15, 29);
+    font: 4em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    
+    font-size:medium;
+    text-align: center;
+    font-style: oblique;
+
+
+}
+
+.para{
+
+    text-align: center;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(7, 4, 4);
+}
+
+
+.design{
+    display: flex;
+    flex-direction: row;
+    border-width: 23em;
+    
+}
+
+/* p{
+    text-align: justify;
+}
+
+#patrick{
+    color: darkgoldenrod;
+    background-color: rgb(83, 11, 11);
+} */
+
+
+
+
+/* ------------------------------------ */
+.yusuf{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+.item{
+    display: flex;
+    border: 3px;
+    font-family: 'Koulen', cursive;
+    align-content: flex-end;
+    justify-content: end;
+    line-height: 0.4;
+    
+    
+}
+
+.Zak{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+/* ------------------------------------------------------- */
+
+.getintouch{
+    display: flex;
+    padding-left: 38%;
+    font-family: 'Koulen', cursive;
+    font-size: 10vh;
+    text-align: center;
+}
+
+
+#contactdetails{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 20px;
+    border-color: rgb(128, 128, 128);
+    box-sizing: border-box;
+    border-width: 5px;
+    border-style: solid;
+    color: rgb(189, 123, 0);
+    margin: 40px;
+    width: 80vh;
+    
+
+
+
+
+}
+
+.george{
+    display: flex;
+    padding-left: 350px;
+    align-items: center;
+
+
+}
+
+.working{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    color: darkslategrey;
+    text-align: center;
+
+
+
+}
+
+.model{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 80px;
+
+
+
+}
+
+.modellayout{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-content: space-evenly;
+    
+    
+
+
+}
+
+.navbutton{
+    display: flex;
+    width: 45%;
+    border-style: solid;
+    border-width: 6px;
+    border-color: rgb(21, 22, 22);
+    align-content: center;
+    padding-left: 10px;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    box-sizing: border-box;
+    background-color: rgb(8, 10, 10);
+    color: rgb(214, 244, 255);
+
+
+}
+
+body {
+   
+    background: linear-gradient( to top, rgb(228, 228, 228) 10%, white 10%)
+}
+
+body {
+   
+    background: linear-gradient( to right, rgb(19, 17, 17) 10%, white 10%)
+}
